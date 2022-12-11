@@ -1,0 +1,15 @@
+# Python
+__pycache__
+*.pyc
+.venv
+
+# IDEs & Editors
+.idea
+
+# Frameworks & Libraries
+dist
+poetry.lock
+
+# Project Specific
+
+# ETC
